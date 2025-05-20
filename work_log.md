@@ -4,6 +4,6 @@
 # Week of the Month
 # - Task
 #   -   Purpose of the task
-#   -   Success
 #   -   Bugs / Challenges
+#   -   Breakthrough
 #   -   Take away
