@@ -16,10 +16,10 @@ Week of the Month
  # Work Log
 
  ## Month of June
- ### Current Week
+ ### 1<sup>st</sup> Week of June
 - Task: Upgrade lookup.py to go to a file directory and explore
-   -  NAME: lookup.py
-   -  TYPE: Side project
+   -  NAME: [lookup.py](https://github.com/Sheyzie/side_project/blob/main/Search%20Script/lookup.py)
+   -  TYPE: [Side project](https://github.com/Sheyzie/side_project)
    -  PURPOSE: A terminal based python script to search and go to a file in a directory.
    -  CHALLENGES: Unable to get the change directory in the terminal outside the script
       -  SOLUTION: Implement menu system in the script to show navigations and allow command input by the user. 
@@ -32,8 +32,8 @@ Week of the Month
  ## Month of May
  ### 4<sup>th</sup> Week of May
 -  Task: Search For File
-   -  NAME: lookup.py
-   -  TYPE: Side project
+   -  NAME: [lookup.py](https://github.com/Sheyzie/side_project/blob/main/Search%20Script/lookup.py)
+   -  TYPE: [Side project](https://github.com/Sheyzie/side_project)
    -  PURPOSE: A terminal based python script to search for files across all directories from the base directory
    -  CHALLENGES: The recursive function ends with directories without sub directories and just files
       -  SOLUTION: 
